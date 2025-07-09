@@ -1,9 +1,12 @@
-# Alastair Smith
+# 🧬 Alastair Smith
 
 **Postdoctoral Researcher**  
 MRC Weatherall Institute of Molecular Medicine (WIMM)  
 University of Oxford  
-[Milne Group – Epigenetics & Gene Regulation in Leukaemia](https://www.imm.ox.ac.uk/research/research-groups/milne-group-epigenetics-and-gene-regulation-in-leukaemia)
+
+🔬 [Milne Group – Epigenetics & Gene Regulation in Leukaemia](https://www.imm.ox.ac.uk/research/research-groups/milne-group-epigenetics-and-gene-regulation-in-leukaemia)
+
+📍 Oxford, UK | 🧪 Computational & Experimental Epigenomics | 💡 Enhancer Biology in Cancer
 
 ---
 
