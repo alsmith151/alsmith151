@@ -50,5 +50,5 @@ I build open-source tools designed for **performance, reproducibility, and ease 
 
 - 🔬 [Milne Group @ Oxford](https://www.imm.ox.ac.uk/research/research-groups/milne-group-epigenetics-and-gene-regulation-in-leukaemia)  
 - 🧪 [ORCID](https://orcid.org/0000-0001-6330-1407)
-- 📫 Email: alastair.smith@imm.ox.ac.uk 
+- 📫 [Email](alastair.smith@imm.ox.ac.uk )
 - 💼 [LinkedIn](https://www.linkedin.com/in/alastairlukesmith1992/)
