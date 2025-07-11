@@ -16,10 +16,10 @@ I'm a postdoctoral researcher investigating **enhancer dynamics in cancer**, wit
 
 To address these questions, I generate and integrate diverse high-throughput datasets using:
 
-- **Epigenomic profiling**: ChIP-seq, low-input ChIPmentation, ATAC-seq, CUT&Tag  
-- **Transcriptomics**: Bulk RNA-seq and single-cell multiome  
-- **Chromatin conformation**: NG Capture-C, Tiled-C  
-- **Epigenetic modifications**: DNA methylation profiling
+- **Epigenomic profiling**: ChIP-seq, low-input ChIPmentation, ATAC-seq, CUT&Tag, CUT&RUN
+- **Transcriptomics**: Bulk RNA-seq, TT-seq, POINT-seq  
+- **Chromatin conformation**: NG Capture-C, Tiled-C, Micro-Capture-C  
+- **Epigenetic modifications**: DNA methylation profiling - TAPS/Bisulphite based methods
 - **Single cell Transcriptomics and Epigenomics**: 10x scMultiome, scCUT&TAG
 
 These data are analysed using custom workflows, statistical modelling, and machine learning to identify **regulatory mechanisms underpinning transcriptional dysregulation in leukemia**.
